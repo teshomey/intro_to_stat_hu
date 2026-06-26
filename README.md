@@ -1,16 +1,9 @@
 # Introduction to Statistics
-
-**Haramaya University**  
-**College of Computing and Informatics**  
-**Department of Statistics**
-
 ---
 
 ## 📘 Overview
 
-This repository contains the **"Introduction to Statistics"** lecture notes / textbook prepared for undergraduate students in the **College of Natural and Computational Sciences** at Haramaya University.
-
-The material provides a comprehensive foundation in statistical concepts, from basic definitions to introductory inferential statistics, correlation, and regression.
+This repository contains the **Introduction to Statistics** lecture notes prepared for undergraduate students in the **College of Natural and Computational Sciences** at Haramaya University. The material provides a comprehensive foundation in statistical concepts, from basic definitions to introductory inferential statistics, correlation, and regression.
 
 ---
 
@@ -54,9 +47,9 @@ The material provides a comprehensive foundation in statistical concepts, from b
 
 ## 👤 Authors & Editors
 
-- **Writer**: Teshome Kebede (MSc), Department of Statistics
+- **Writer**: Teshome K. Deressa, Department of Statistics
 - **Editors**: 
-  - Awol Seid (MSc), Department of Statistics
+  - Awol Seid, Department of Statistics
   - Getinet Alemayehu (PhD), Department of Mathematics
 
 **Copyright**: © April 2016, Haramaya University
@@ -67,15 +60,6 @@ The material provides a comprehensive foundation in statistical concepts, from b
 
 - Undergraduate students in Statistics, Natural Sciences, Computational Sciences, and related fields
 - Anyone looking for a clear, beginner-friendly introduction to statistics
-
----
-
-## 📥 How to Use
-
-1. Download the PDF from the repository
-2. Open with any PDF reader
-3. Use the built-in table of contents for easy navigation
-
 ---
 
 ## 📝 Note
