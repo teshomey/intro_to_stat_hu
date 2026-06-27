@@ -3,7 +3,7 @@
 
 ## 📘 Overview
 
-This repository contains the **Introduction to Statistics** lecture notes prepared for undergraduate students in the **College of Natural and Computational Sciences** at Haramaya University. The material provides a comprehensive foundation in statistical concepts, from basic definitions to introductory inferential statistics, correlation, and regression.
+This repository contains the **Introduction to Statistics** lecture notes prepared for undergraduate students in the College of Natural and Computational Sciences at Haramaya University. The material provides a comprehensive foundation in statistical concepts, from basic definitions to introductory inferential statistics, correlation, and regression.
 
 ---
 
