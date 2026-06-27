@@ -65,9 +65,3 @@ This repository contains the **Introduction to Statistics** lecture notes prepar
 ## 📝 Note
 
 This material is shared for **educational purposes**. Please respect the copyright of Haramaya University.
-
----
-
-## ⭐ Star this repo if you find it useful!
-
-Contributions (corrections, improvements, or additional resources) are welcome via Pull Requests.
